@@ -1,0 +1,13 @@
+1. Logical Gates
+	1.1 Buffer
+	1.2 Inverter
+	1.3 And
+	1.4 Nand
+	1.5 Or
+	1.6 Nor
+	1.7 Xor
+	1.8 Xnor
+2. Combinational Circuits
+	2.1 Half Adder (Behavioral)
+	2.2 Full Adder (Structural & Behavioral)
+3. Sequential Circuits
